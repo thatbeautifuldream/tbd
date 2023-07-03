@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/thatbeautifuldream">
-    <img alt="confetti" src="https://raw.githubusercontent.com/thatbeautifuldream/thatbeautifuldream/main/.github/assets/confetti.svg" width="100%" />
+    <img alt="confetti" src="https://raw.githubusercontent.com/thatbeautifuldream/tbd/main/.github/assets/confetti.svg" width="100%" />
   </a>
 </p>
 
