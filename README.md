@@ -60,6 +60,11 @@
       <a href="https://wakatime.com/@milindmishra"><img src="https://wakatime.com/share/@milindmishra/1fbc2e5f-6362-4080-8af6-163474505e5d.png" /></a>
 </br></details>
 
+<details>
+    <summary>Wakatime Stats</summary>
+      <a href="https://wakatime.com/@milindmishra"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=milindmishra" /></a>
+</br></details>
+
 ### Latest fom [`Hashnode`][blog]
 
 <!-- BLOG-POST-LIST:START -->
